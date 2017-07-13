@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/cell_Rel"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#FFFFFF">
+
+        <TextView
+            android:id="@+id/settings_customlistcell_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="16sp"/>
+        <ImageView
+            android:id="@+id/director"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginRight="15dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/directorblack"/>
+    </RelativeLayout>
+
+</RelativeLayout>

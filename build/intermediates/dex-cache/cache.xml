@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_43c5d93867e7348b6a678f87d8555c0177d38420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_e6c55d4e46d431cd4f3ebeef6bc386acf55ff90d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_cf394daf0140a0a94fcb6b51708f2834f86ec309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adminPro\.gradle\caches\modules-2\files-2.1\jp.co.cyberagent.android.gpuimage\gpuimage-library\1.3.0\e2e1ca1fbb73283fbc84a0d0b0e3e982d288c658\gpuimage-library-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2e1ca1fbb73283fbc84a0d0b0e3e982d288c658">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\gpuimage-library-1.3.0_3f525fe8a3d9c96f3d058d7e44763cd79c289971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dca7a60bcc49fedf852b01a28826329c330ba977">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-glide-transformations-2.0.0_66b30edab6cbcfb1d1aa91c534d27da47f7cc826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.0.0_7743e64dc146ec8a90556621963abc41bcb1c9ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha7_45f714055b38d549d964883f493b8961b5290f44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_23649c47b394414f4ec821055511dff223f0e48a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_16a0baafff17999c75fd0ec7096960de74ea156b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_0fc5bfc25a80841ed49a0b576420e2175cdacef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_4b11ddae7776565cf035fa254e7d9f0be8a9d472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_28145d1571a9b7b943813de9323a569b13f4e5dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc96450c7ef92845091e20d17fd70edcd7fe4ad2">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4ec35fd57df96cdc1f17c3ac84c8ee7720318288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c15c2cd93ec3405af2f637926ed93f58a7f6f7cf">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1bff8ca53cef095ff4be601bb3aa1207999e79f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adminPro\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_36773c8e3fa6cdeed9f0a69c287d8555d716402d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.astuetz-pagerslidingtabstrip-1.0.1_c296dd619cf3ee76d842a4c4d08acbca9cae4cb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_bb8138ed508bec4071af5657078eaff018dff339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_4dcc173cc158986d1b6fb3c685d34004b4997132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_16e84b3780c0e7a70085f4679ccab7818e06c83f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_3e4df8f41e0c4bc477e540db39d1929f72df5e4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adminPro\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_ee35a40e01527f66a2baa303860d747168d59b4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.hkm.loyalslider\library\1.9.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5984a4219da0eefb587a39f636a46b1e31cda317">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.hkm.loyalslider-library-1.9.4_ef85d869c73f6beffc7807d20b4a9be074420c2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_aba94a1a669402e7edbea3b2bf8dc6d44f4b5a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_5dbc965c8e35441c07dec1c9e7ddb14652c68642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_10daf18f46c0a08bb6e208fd7b605fd9ffbc0556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adminPro\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.2\df90a91dbb9a7d942361a5613b1666e38dca4844\rxjava-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df90a91dbb9a7d942361a5613b1666e38dca4844">
+        <dex dex="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.2_2804e2c693e651ae960bb88beaa2d12322ac91bc\classes.dex" />
+    </item>
+
+</items>

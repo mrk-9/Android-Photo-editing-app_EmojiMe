@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <RelativeLayout
+        android:id="@+id/editpicture3_toprel"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#FE5D26">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="sans-serif"
+            android:text="Edit Picture"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/editpicture3_cancelbtn"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/tuticancel"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/editpicture3_toprel"
+        android:layout_marginBottom="70dp">
+
+        <FrameLayout
+            android:id="@+id/lycontainer3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.example.admin.emojime.EditPicture.DrawingViewthree
+                android:id="@+id/drawingthree"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true">
+
+            </com.example.admin.emojime.EditPicture.DrawingViewthree>
+
+        </FrameLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/eraser3_rel"
+        android:layout_width="134dp"
+        android:layout_height="38dp"
+        android:layout_above="@+id/second3_rel"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/rounded_corner">
+
+        <ImageView
+            android:id="@+id/erasorthree1"
+            android:layout_width="18dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/high1"/>
+        <ImageView
+            android:id="@+id/erasorthree2"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="7dp"
+            android:src="@drawable/high2"
+            android:layout_toRightOf="@+id/erasorthree1"/>
+        <ImageView
+            android:id="@+id/erasorthree3"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_marginLeft="7dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/high3"
+            android:layout_toRightOf="@+id/erasorthree2"/>
+        <ImageView
+            android:id="@+id/erasorthree4"
+            android:layout_width="27dp"
+            android:layout_height="29dp"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/high4"
+            android:layout_toRightOf="@+id/erasorthree3"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/second3_rel"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FE2C00">
+
+        <ImageView
+            android:id="@+id/cut3_tool"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="15dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/put"/>
+
+        <ImageView
+            android:id="@+id/erasor3_tool"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/cut3_tool"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/wach"/>
+
+        <ImageView
+            android:id="@+id/replace3_tool"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/erasor3_tool"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/rotare"/>
+
+        <ImageView
+            android:id="@+id/confirm3_tool"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/ok"/>
+    </RelativeLayout>
+
+</RelativeLayout>

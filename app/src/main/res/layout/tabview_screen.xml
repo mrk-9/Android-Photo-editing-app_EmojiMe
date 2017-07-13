@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/tabs"
+        android:layout_alignParentTop="true" />
+
+    <com.example.admin.emojime.Utils.PagerSlidingTabStrip
+        android:id="@+id/tabs"
+        app:pstsShouldExpand="true"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:textSize="12sp"
+        android:background="#F9F9F9"
+        android:textColor="#606366"
+        app:pstsIndicatorColor="#FF4202"
+        app:pstsDividerColor="#F9F9F9"
+        android:layout_alignParentBottom="true"
+        app:pstsTabPaddingLeftRight="14dp" />
+</RelativeLayout>

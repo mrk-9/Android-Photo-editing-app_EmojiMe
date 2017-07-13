@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emoji Me</string>
+
+    <string-array name="tab_titles">
+        <item>Expressions</item>
+        <item>Other</item>
+        <item>Emoji Me</item>
+        <item>Settings</item>
+    </string-array>
+</resources>

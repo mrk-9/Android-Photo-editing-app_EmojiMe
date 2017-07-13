@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/splshscreen"
+        android:scaleType="centerCrop"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:alpha="0.6"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/parentLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="60dp">
+
+            <com.hkm.slider.SliderLayout
+                android:id="@+id/slider"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                custom:auto_cycle="false"
+                custom:pager_animation="Default"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp">
+
+            <Button
+                android:id="@+id/move_btn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/tuticancel"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/parentLayout"
+            android:layout_marginTop="-30dp"
+            android:layout_centerHorizontal="true">
+
+            <com.hkm.slider.Indicators.PagerIndicator
+                android:id="@+id/page_indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:layout_gravity="center_horizontal"
+                custom:unselected_color="@color/menu_color"
+                custom:selected_color="@android:color/white">
+            </com.hkm.slider.Indicators.PagerIndicator>
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

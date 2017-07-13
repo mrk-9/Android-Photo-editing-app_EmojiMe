@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res"/><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\build\generated\res\rs\release"/><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res"><file name="crop_image_menu_rotate_left" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-hdpi\crop_image_menu_rotate_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="crop_image_menu_rotate_right" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-hdpi\crop_image_menu_rotate_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="crop_image_menu_rotate_left" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-xhdpi\crop_image_menu_rotate_left.png" qualifiers="xhdpi-v4" type="drawable"/><file name="crop_image_menu_rotate_right" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-xhdpi\crop_image_menu_rotate_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="crop_image_menu_rotate_left" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-xxhdpi\crop_image_menu_rotate_left.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="crop_image_menu_rotate_right" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-xxhdpi\crop_image_menu_rotate_right.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="crop_image_menu_rotate_left" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-xxxhdpi\crop_image_menu_rotate_left.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="crop_image_menu_rotate_right" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\drawable-xxxhdpi\crop_image_menu_rotate_right.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="crop_image_activity" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\layout\crop_image_activity.xml" qualifiers="" type="layout"/><file name="crop_image_view" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\layout\crop_image_view.xml" qualifiers="" type="layout"/><file name="crop_image_menu" path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\menu\crop_image_menu.xml" qualifiers="" type="menu"/><file path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CropImageView">
+        <attr name="cropGuidelines">
+            <enum name="off" value="0"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="on" value="2"/>
+        </attr>
+        <attr name="cropScaleType">
+            <enum name="fitCenter" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="centerCrop" value="2"/>
+            <enum name="centerInside" value="3"/>
+        </attr>
+        <attr name="cropShape">
+            <enum name="rectangle" value="0"/>
+            <enum name="oval" value="1"/>
+        </attr>
+        <attr format="boolean" name="cropAutoZoomEnabled"/>
+        <attr format="integer" name="cropMaxZoom"/>
+        <attr format="boolean" name="cropMultiTouchEnabled"/>
+        <attr format="boolean" name="cropFixAspectRatio"/>
+        <attr format="integer" name="cropAspectRatioX"/>
+        <attr format="integer" name="cropAspectRatioY"/>
+        <attr format="float" name="cropInitialCropWindowPaddingRatio"/>
+        <attr format="dimension" name="cropBorderLineThickness"/>
+        <attr format="color" name="cropBorderLineColor"/>
+        <attr format="dimension" name="cropBorderCornerThickness"/>
+        <attr format="dimension" name="cropBorderCornerOffset"/>
+        <attr format="dimension" name="cropBorderCornerLength"/>
+        <attr format="color" name="cropBorderCornerColor"/>
+        <attr format="dimension" name="cropGuidelinesThickness"/>
+        <attr format="color" name="cropGuidelinesColor"/>
+        <attr format="color" name="cropBackgroundColor"/>
+        <attr format="dimension" name="cropSnapRadius"/>
+        <attr format="dimension" name="cropTouchRadius"/>
+        <attr format="boolean" name="cropShowCropOverlay"/>
+        <attr format="boolean" name="cropShowProgressBar"/>
+        <attr format="dimension" name="cropMinCropWindowWidth"/>
+        <attr format="dimension" name="cropMinCropWindowHeight"/>
+        <attr format="float" name="cropMinCropResultWidthPX"/>
+        <attr format="float" name="cropMinCropResultHeightPX"/>
+        <attr format="float" name="cropMaxCropResultWidthPX"/>
+        <attr format="float" name="cropMaxCropResultHeightPX"/>
+    </declare-styleable></file><file path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\values\ids.xml" qualifiers=""><item name="crop_image_menu_crop" type="drawable"/></file><file path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\main\res\values\strings.xml" qualifiers=""><string name="crop_image_menu_rotate_left">Rotate counter clockwise</string><string name="pick_image_intent_chooser_title">Select source</string><string name="crop_image_activity_title"/><string name="crop_image_menu_rotate_right">Rotate</string><string name="crop_image_menu_crop">Crop</string></file></source><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\build\generated\res\rs\release"/><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\Android\tsks\EmoJiMe\emoji_new\emoji_new\emojime_2\emojime\cropper\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CropImageView"><attr name="cropGuidelines">
+            <enum name="off" value="0"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="on" value="2"/>
+        </attr><attr name="cropScaleType">
+            <enum name="fitCenter" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="centerCrop" value="2"/>
+            <enum name="centerInside" value="3"/>
+        </attr><attr name="cropShape">
+            <enum name="rectangle" value="0"/>
+            <enum name="oval" value="1"/>
+        </attr><attr format="boolean" name="cropAutoZoomEnabled"/><attr format="integer" name="cropMaxZoom"/><attr format="boolean" name="cropMultiTouchEnabled"/><attr format="boolean" name="cropFixAspectRatio"/><attr format="integer" name="cropAspectRatioX"/><attr format="integer" name="cropAspectRatioY"/><attr format="float" name="cropInitialCropWindowPaddingRatio"/><attr format="dimension" name="cropBorderLineThickness"/><attr format="color" name="cropBorderLineColor"/><attr format="dimension" name="cropBorderCornerThickness"/><attr format="dimension" name="cropBorderCornerOffset"/><attr format="dimension" name="cropBorderCornerLength"/><attr format="color" name="cropBorderCornerColor"/><attr format="dimension" name="cropGuidelinesThickness"/><attr format="color" name="cropGuidelinesColor"/><attr format="color" name="cropBackgroundColor"/><attr format="dimension" name="cropSnapRadius"/><attr format="dimension" name="cropTouchRadius"/><attr format="boolean" name="cropShowCropOverlay"/><attr format="boolean" name="cropShowProgressBar"/><attr format="dimension" name="cropMinCropWindowWidth"/><attr format="dimension" name="cropMinCropWindowHeight"/><attr format="float" name="cropMinCropResultWidthPX"/><attr format="float" name="cropMinCropResultHeightPX"/><attr format="float" name="cropMaxCropResultWidthPX"/><attr format="float" name="cropMaxCropResultHeightPX"/></declare-styleable></configuration></mergedItems></merger>

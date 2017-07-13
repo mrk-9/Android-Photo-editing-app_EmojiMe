@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popup_expressions"
+        android:title="Expressions" />
+    <item
+        android:id="@+id/popup_other"
+        android:title="Other"/>
+    <item
+        android:id="@+id/popup_cancel"
+        android:title="Cancel">
+    </item>
+</menu>

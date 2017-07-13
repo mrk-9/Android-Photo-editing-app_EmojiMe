@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#FE5D26">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:text="Emoji Me"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <RelativeLayout
+            android:id="@+id/cameraroll_btn"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="100dp"
+            android:layout_height="80dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/layout_corner">
+
+            <TextView
+                android:id="@+id/cameraroll_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Camera Roll"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/takepicture_btn"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="100dp"
+            android:layout_height="80dp"
+            android:layout_below="@+id/cameraroll_btn"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/layout_corner">
+
+            <TextView
+                android:id="@+id/takepicture_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Take Picture"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"/>
+
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>
